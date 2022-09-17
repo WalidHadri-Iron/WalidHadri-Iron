@@ -34,13 +34,19 @@ I have had many experiences to use different tools, I have used Java, C/C++, Jul
     </tr>
   </thead>
   <tbody>
-	  <tr>
+    <tr>
       <td><a href="https://github.com/WalidHadri-Iron/DSA"><b>DSA</b></a></td>
       <td>Github Repository that sums the important ideas and notions related to Data Structure and Algorithms</td>
       <td>🚧</td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-original.svg" title="Networkx" alt="NetworkX" width="40" height="40"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-original.svg" title="Networkx" alt="NetworkX" width="40" height="40"/><img src="https://github.com/WalidHadri-Iron/WalidHadri-Iron/blob/main/icons/gurobi.png" title="Gurobi" alt="Gurobi" width="100 height="100></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/WalidHadri-Iron/DSA/tree/main/EulerProject"><b>Project Euler</b></a></td>
+      <td>Github Repository grouping my solutions for the <a href="https://projecteuler.net/"> Project Euler</b></td>
+      <td>🚧</td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp<img src="https://github.com/WalidHadri-Iron/WalidHadri-Iron/blob/main/icons/Sympy_logo.svg.png" title="Sympy" alt="Sympy" width="50" height="50">
+    </tr>	  
+	<tr>
       <td><a href="https://github.com/WalidHadri-Iron/MachineLearningLectures"><b>Machine Learning</b></a></td>
       <td>Github Repository for courses in Classical Machine Learning I made with a more dive into the mathematics</td>
       <td>🚧</td>
