@@ -87,7 +87,7 @@ I have had many experiences to use different tools, I have used Java, C/C++, Jul
     </tr>
     <tr>
       <td><a href="https://github.com/WalidHadri-Iron/SimpleSearchEngine"><b>Simple Search Engine</b></a></td>
-      <td>GitHub Repository for a school project with BNP to create a search engine app with similarity score method to compare the query with the text in the database (the database was small, we used simple methods and TF-IDF as vectorizer)</td>
+      <td>GitHub Repository for a school project with BNP to create a search engine app with a similarity score method to compare the query with the text in the database (the database was small, we used simple methods for the search and TF-IDF as vectorizer)</td>
       <td>✅</td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="ReactJS" **alt="ReactJS" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" **alt="flask" width="40" height="40"/>&nbsp;<img src="https://github.com/WalidHadri-Iron/WalidHadri-Iron/blob/main/icons/spacy.svg" title="spacy" **alt="spacy" width="50" height="30"/></td>
     </tr>
