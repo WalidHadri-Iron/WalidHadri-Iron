@@ -50,11 +50,31 @@ I have had many experiences to use different tools, I have used Java, C/C++, Jul
       <td><a href="https://github.com/WalidHadri-Iron/MachineLearningLectures"><b>Machine Learning</b></a></td>
       <td>Github Repository for courses in Classical Machine Learning I made with a more dive into the mathematics</td>
       <td>🚧</td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" **alt="pandas" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="numpy" **alt="numpy" width="40" height="40"/>&nbsp<img src="https://github.com/WalidHadri-Iron/WalidHadri-Iron/blob/main/icons/plotly.svg" title="plotly" **alt="plotly" width="40" height="40"/>&nbsp<img src="https://github.com/WalidHadri-Iron/WalidHadri-Iron/blob/main/icons/seaborn.svg" title="seaborn" **alt="seaborn" width="40" height="40"/>&nbsp<img src="https://github.com/WalidHadri-Iron/WalidHadri-Iron/blob/main/icons/matplotlib.svg" title="matplotlib" **alt="matplotlib" width="50" height="50"/></td>		
     </tr>
     <tr>
-      <td><a href="https://github.com/WalidHadri-Iron/MachineLearningLectures"><b>Machine Learning</b></a></td>
-      <td>Github Repository for courses in Classical Machine Learning I made with a more dive into the mathematics</td>
-      <td>🚧</td>
+      <td><a href="https://walidhadri.medium.com/the-air-traffic-flow-management-rerouting-problem-534fbcc3e977"><b>MIP Optimisation</b></a></td>
+      <td>Medium article to sum up the mathematical formualtion of Air Traffic Flow Management Rerouting Problem (TFMRP)</td>
+      <td>✅</td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original-wordmark.svg" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;<img src="https://github.com/WalidHadri-Iron/WalidHadri-Iron/blob/main/icons/gurobi.png" title="Gurobi" alt="Gurobi" width="100 height="100></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/WalidHadri-Iron/MLScraping"><b>ML for Scraping</b></a></td>
+      <td>GitHub Repository for a project about automating the scraping of E-commerce websites using Machine Learning</td>
+      <td>✅</td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>&nbsp;<img src="https://github.com/WalidHadri-Iron/WalidHadri-Iron/blob/main/icons/sklearn.svg" title="Sklearn" alt="Sklearn" width="50" height="50"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/WalidHadri-Iron/SeleniumProjects"><b>Projects with Selenium</b></a></td>
+      <td>GitHub Repository for projects using Selenium to automate scraping/interacting/using websites
+	   <ol>
+  <li><a href="https://github.com/WalidHadri-Iron/SeleniumProjects"><b>Playing with 10fastfingers.com</b></a></li>
+  <li>Second item</li>
+  <li>Third item</li>
+  <li>Fourth item</li>
+</ol> </td>
+      <td>✅</td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" **alt="HTML" width="40" height="40"/></td>
     </tr>
   </tbody>
 </table>
