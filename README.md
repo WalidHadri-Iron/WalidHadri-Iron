@@ -38,7 +38,7 @@ I have had many experiences to use different tools, I have used Java, C/C++, Jul
       <td><a href="https://github.com/WalidHadri-Iron/DSA"><b>DSA</b></a></td>
       <td>Github Repository that sums the important ideas and notions related to Data Structure and Algorithms</td>
       <td>🚧</td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-original.svg" title="Networkx" alt="NetworkX" width="40" height="40"/><img src="https://github.com/WalidHadri-Iron/WalidHadri-Iron/blob/main/icons/gurobi.png" title="Gurobi" alt="Gurobi" width="100 height="100></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-original.svg" title="Networkx" alt="NetworkX" width="40" height="40"/>&nbsp;<img src="https://github.com/WalidHadri-Iron/WalidHadri-Iron/blob/main/icons/gurobi.png" title="Gurobi" alt="Gurobi" width="100 height="100></td>
     </tr>
     <tr>
       <td><a href="https://github.com/WalidHadri-Iron/DSA/tree/main/EulerProject"><b>Project Euler</b></a></td>
@@ -53,8 +53,11 @@ I have had many experiences to use different tools, I have used Java, C/C++, Jul
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" **alt="pandas" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="numpy" **alt="numpy" width="40" height="40"/>&nbsp<img src="https://github.com/WalidHadri-Iron/WalidHadri-Iron/blob/main/icons/plotly.svg" title="plotly" **alt="plotly" width="40" height="40"/>&nbsp<img src="https://github.com/WalidHadri-Iron/WalidHadri-Iron/blob/main/icons/seaborn.svg" title="seaborn" **alt="seaborn" width="40" height="40"/>&nbsp<img src="https://github.com/WalidHadri-Iron/WalidHadri-Iron/blob/main/icons/matplotlib.svg" title="matplotlib" **alt="matplotlib" width="50" height="50"/></td>		
     </tr>
     <tr>
-      <td><a href="https://walidhadri.medium.com/the-air-traffic-flow-management-rerouting-problem-534fbcc3e977"><b>MIP Optimisation</b></a></td>
-      <td>Medium article to sum up the mathematical formualtion of Air Traffic Flow Management Rerouting Problem (TFMRP)</td>
+      <td><a href="https://github.com/WalidHadri-Iron/OptimisationProjects"><b>MIP Optimisation</b></a></td>
+      <td><ol><li><a href="https://walidhadri.medium.com/the-air-traffic-flow-management-rerouting-problem-534fbcc3e977"><b>Medium article to sum up the mathematical formualtion of Air Traffic Flow Management Rerouting Problem (TFMRP)</b></a></li>
+  <li>Second item</li>
+  <li>Third item</li>
+  <li>Fourth item</li></ol></td>
       <td>✅</td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original-wordmark.svg" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;<img src="https://github.com/WalidHadri-Iron/WalidHadri-Iron/blob/main/icons/gurobi.png" title="Gurobi" alt="Gurobi" width="100 height="100></td>
     </tr>
@@ -76,5 +79,18 @@ I have had many experiences to use different tools, I have used Java, C/C++, Jul
       <td>✅</td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" **alt="HTML" width="40" height="40"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/WalidHadri-Iron/Valorant-Project"><b>Valorant Project</b></a></td>
+      <td>Computer Vision Project with deep learning (Yolo) and a classical (Template Matching) object detection approach</td>
+      <td>✅</td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Pytorch" **alt="Pytorch" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="opencv" **alt="opencv" width="40" height="40"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/WalidHadri-Iron/SimpleSearchEngine"><b>Simple Search Engine</b></a></td>
+      <td>GitHub Repository for a school project with BNP to create a search engine app with similarity score method to compare the query with the text in the database (the database was small, we used simple methods and TF-IDF as vectorizer)</td>
+      <td>✅</td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="ReactJS" **alt="ReactJS" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" **alt="flask" width="40" height="40"/></td>
+    </tr>
+  
   </tbody>
 </table>
