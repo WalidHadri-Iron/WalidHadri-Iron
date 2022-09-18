@@ -55,11 +55,11 @@ I have had many experiences to use different tools, I have used Java, C/C++, Jul
     <tr>
       <td><a href="https://github.com/WalidHadri-Iron/OptimisationProjects"><b>MIP Optimisation</b></a></td>
       <td><ol><li><a href="https://walidhadri.medium.com/the-air-traffic-flow-management-rerouting-problem-534fbcc3e977"><b>Medium article to sum up the mathematical formualtion of Air Traffic Flow Management Rerouting Problem (TFMRP)</b></a></li>
-  <li>Second item</li>
+  <li><a href="https://github.com/WalidHadri-Iron/OptimisationProjects/tree/main/Truck%20Platooning"><b>Truck Platooning problem from mathematical formulation to solving using Gurobi</b></a></li>
   <li>Third item</li>
   <li>Fourth item</li></ol></td>
       <td>✅</td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original-wordmark.svg" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;<img src="https://github.com/WalidHadri-Iron/WalidHadri-Iron/blob/main/icons/gurobi.png" title="Gurobi" alt="Gurobi" width="100 height="100></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original-wordmark.svg" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;<img src="https://github.com/WalidHadri-Iron/WalidHadri-Iron/blob/main/icons/gurobi.png" title="Gurobi" alt="Gurobi" width="100 height="100></td>
     </tr>
     <tr>
       <td><a href="https://github.com/WalidHadri-Iron/MLScraping"><b>ML for Scraping</b></a></td>
@@ -71,9 +71,9 @@ I have had many experiences to use different tools, I have used Java, C/C++, Jul
       <td><a href="https://github.com/WalidHadri-Iron/SeleniumProjects"><b>Projects with Selenium</b></a></td>
       <td>GitHub Repository for projects using Selenium to automate scraping/interacting/using websites
 	   <ol>
-  <li><a href="https://github.com/WalidHadri-Iron/SeleniumProjects"><b>Playing with 10fastfingers.com</b></a></li>
-  <li>Second item</li>
-  <li>Third item</li>
+  <li><a href="https://github.com/WalidHadri-Iron/SeleniumProjects/tree/master/10fastfingers"><b>Playing with 10fastfingers.com</b></a></li>
+  <li><a href="https://github.com/WalidHadri-Iron/SeleniumProjects/tree/master/plugshare"><b>Parsing plugshare.com</b></a></li>  
+  <li><a href="https://github.com/WalidHadri-Iron/SeleniumProjects/tree/master/sportdirect"><b>Parsing plugshare.com</b></a></li>
   <li>Fourth item</li>
 </ol> </td>
       <td>✅</td>
