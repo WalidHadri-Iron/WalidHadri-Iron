@@ -96,7 +96,7 @@ I have had many experiences to use different tools, I have used Java, C/C++, Jul
       <td>GitHub Repository for parsing and writing in different files format (pdfs, docs, word files, images, xml, pptx...)<ol>
   <li><a href="https://github.com/WalidHadri-Iron/ParsingFiles/tree/main/studyclix"><b>Project for parsing word files and generating pdf files for studyclix.ie</b></a></li>
   <li><a href="https://github.com/WalidHadri-Iron/ParsingFiles/tree/main/ResumePresentationPPTX"><b>Resume presentation generator from excel to pptx</b></a></li>  
-  <li><a href="https://github.com/WalidHadri-Iron/ParsingFiles/tree/main/XlwingsCalculations"><b>Automate an Excel file calculation using XLWINGS</b></a></li>
+  <li><a href="https://github.com/WalidHadri-Iron/ParsingFiles/tree/main/XlwingsCalculations"><b>Automate an Excel file calculations using XLWINGS</b></a></li>
   <li><a href="https://github.com/WalidHadri-Iron/ParsingFiles/tree/main/RedditBotPosting"><b>Reddit Bot for posting</b></a></li>
 </ol></td>
       <td>✅</td>
