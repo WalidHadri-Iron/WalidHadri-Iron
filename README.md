@@ -62,7 +62,6 @@ I have had many experiences to use different tools, I have used Java, C/C++, Jul
   <li><a href="https://github.com/WalidHadri-Iron/SeleniumProjects/tree/master/10fastfingers"><b>Playing with 10fastfingers.com</b></a></li>
   <li><a href="https://github.com/WalidHadri-Iron/SeleniumProjects/tree/master/plugshare"><b>Parsing plugshare.com</b></a></li>  
   <li><a href="https://github.com/WalidHadri-Iron/SeleniumProjects/tree/master/sportdirect"><b>Scheduled Parser for price and stock monitoring</b></a></li>
-  <li>Fourth item</li>
 </ol> </td>
       <td>✅</td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" **alt="HTML" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" **alt="Heroku" width="40" height="40"/>&nbsp;<img src="https://github.com/WalidHadri-Iron/WalidHadri-Iron/blob/main/icons/aws.svg" title="aws" **alt="aws" width="40" height="30"/></td>    
