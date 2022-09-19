@@ -104,7 +104,7 @@ I have had many experiences to use different tools, I have used Java, C/C++, Jul
     </tr>
     <tr>
       <td><a href="https://github.com/WalidHadri-Iron/BacktestingPortfolio"><b>Backtesting and Portfolio Optimization</b></a></td>
-      <td>GitHub Repository for a short term project related to portfolio opitmization using MonteCarlo and defining strategies for rebalancing to maximze the sharpe ratio</td>
+      <td>GitHub Repository for a short term project related to portfolio opitmization using MonteCarlo and defining strategies for rebalancing to maximize the sharpe ratio</td>
       <td>✅</td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; $\textbf{pyfinance}$</td>
     </tr>
