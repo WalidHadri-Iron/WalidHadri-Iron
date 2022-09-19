@@ -56,8 +56,8 @@ I have had many experiences to use different tools, I have used Java, C/C++, Jul
       <td><a href="https://github.com/WalidHadri-Iron/OptimisationProjects"><b>MIP Optimisation</b></a></td>
       <td><ol><li><a href="https://walidhadri.medium.com/the-air-traffic-flow-management-rerouting-problem-534fbcc3e977"><b>Medium article to sum up the mathematical formualtion of Air Traffic Flow Management Rerouting Problem (TFMRP)</b></a></li>
   <li><a href="https://github.com/WalidHadri-Iron/OptimisationProjects/tree/main/Truck%20Platooning"><b>Truck Platooning problem from mathematical formulation to solving using Gurobi</b></a></li>
-  <li>Third item</li>
-  <li>Fourth item</li></ol></td>
+  <li><a href="https://github.com/WalidHadri-Iron/OptimisationProjects/tree/main/CO%20Casus%20May%202021"><b>Capacitated vehicle routing problem with time windows (CVRPTW)</b></a></li>
+  <li>M<a href="https://github.com/WalidHadri-Iron/OptimisationProjects/tree/main/MinWeightedDominantSet"><b>inimum Weight Dominating Set with MIP approach</b></a></li></ol></td>
       <td>✅</td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original-wordmark.svg" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;<img src="https://github.com/WalidHadri-Iron/WalidHadri-Iron/blob/main/icons/gurobi.png" title="Gurobi" alt="Gurobi" width="100 height="100></td>
     </tr>
@@ -91,6 +91,17 @@ I have had many experiences to use different tools, I have used Java, C/C++, Jul
       <td>✅</td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="ReactJS" **alt="ReactJS" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" **alt="flask" width="40" height="40"/>&nbsp;<img src="https://github.com/WalidHadri-Iron/WalidHadri-Iron/blob/main/icons/spacy.svg" title="spacy" **alt="spacy" width="50" height="30"/></td>
     </tr>
-  
+    <tr>
+      <td><a href="https://github.com/WalidHadri-Iron/ParsingFiles"><b>Parsing Files</b></a></td>
+      <td>GitHub Repository for parsing and writing in different files format (pdfs, docs, word files, images, xml, pptx...)<ol>
+  <li><a href="https://github.com/WalidHadri-Iron/ParsingFiles/tree/main/studyclix"><b>Project for parsing word files and generating pdf files for studyclix.ie</b></a></li>
+  <li><a href="https://github.com/WalidHadri-Iron/ParsingFiles/tree/main/ResumePresentationPPTX"><b>Resume presentation generator from excel to pptx</b></a></li>  
+  <li><a href=""><b>Sssss</b></a></li>
+  <li>Fourth item</li>
+</ol></td>
+      <td>✅</td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="opencv" **alt="opencv" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Pytorch" **alt="Pytorch" width="40" height="40"/>&nbsp;<img src="https://github.com/WalidHadri-Iron/WalidHadri-Iron/blob/main/icons/tkinter.png" title="Tkinter" **alt="Tkinter" width="50" height="30"/><br> $\textbf{tabula}$ $\textbf{pdfminer}$ $\textbf{pymupdf}$ $\textbf{PyPDF2}$ $\textbf{tabula}$ $\textbf{camelot}$ $\textbf{python-pptx}$</td>
+    </tr>
   </tbody>
 </table>
+
