@@ -4,7 +4,7 @@
 [![Medium Badge](https://img.shields.io/badge/-@walidhadri-000000?style=flat&labelColor=000000&logo=Medium&link=https://walidhadri.medium.com/)](https://walidhadri.medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/-wa.hadri.1-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wa.hadri.1@gmail.com)](mailto:wa.hadri.1@gmail.com)
 
-I'm a final year student at CentraleSupélec, one of the top engineering schools in France and part of the University of Paris-Saclay. Currently an intern @DataLab Crédit Agricole. I am majoring in Applied Mathematics and Data Science. My best skill is modeling complex problems with mathematics and building algorithmic solutions.
+I'm a final year student at CentraleSupélec, one of the top engineering schools in France and part of the University of Paris-Saclay. I am majoring in Applied Mathematics and Data Science. My best skill is modeling complex problems with mathematics and building algorithmic solutions.
 
 ### 🛠 &nbsp;Languages and Tools :
 
