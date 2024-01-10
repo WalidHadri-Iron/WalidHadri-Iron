@@ -11,6 +11,16 @@ I'm a graduate from CentraleSupélec, one of the top engineering schools in Fran
 I have had many experiences to use different tools, I have used Java, C/C++, Julia, VBA, SAS, R as programming languages though Python is my mother tongue when it comes to programming. I have used AWS lambda, AWS S3, Docker, ReactJS, Wordpress, Django, Flask, Selenium... and many other technologies and frameworks. The only thing I learnt is that getting familiar with a new technology is a matter of time but having the skill of problem solving and understanding what it is needed at situations, is the most important asset.
 
 
+
+
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" src="https://github-readme-stats-walidhadrirons-projects-1a356695.vercel.app/api?username=WalidHadri-Iron&show_icons=true&theme=shadow_blue&include_all_commits=true" />
+  </a>
+</div>
+
+
 <h3>👨‍💻 Projects</h3>
 <table>
   <thead align="center">
@@ -96,5 +106,6 @@ I have had many experiences to use different tools, I have used Java, C/C++, Jul
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; $\textbf{pyfinance}$</td>
     </tr>
   </tbody>
-</table>
+      </table>
+
 
