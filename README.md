@@ -16,7 +16,7 @@ I have had many experiences to use different tools, I have used Java, C/C++, Jul
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats-walidhadrirons-projects-1a356695.vercel.app/api?username=WalidHadri-Iron&show_icons=true&theme=shadow_blue&include_all_commits=true" />
+    <img height="200" src="https://github-readme-stats-walidhadrirons-projects-1a356695.vercel.app/api?username=WalidHadri-Iron&show_icons=true&theme=shadow_blue&include_all_commits=true&hide_rank=true" />
   </a>
 </div>
 
