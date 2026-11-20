@@ -1,111 +1,67 @@
-### Hi, I am Walid 👋
+<a href="https://www.youtube.com/@TheNextTokenLab">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"><img alt="Walid Hadri. Forward Deployed Engineer and AI Engineer in Paris. I build local-first AI search and explain how LLMs work." src="assets/banner-light.svg" width="100%"></picture>
+</a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-WalidHadri-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walid-hadri-16438b175)](https://www.linkedin.com/in/walid-hadri-16438b175/)
-[![Medium Badge](https://img.shields.io/badge/-@walidhadri-000000?style=flat&labelColor=000000&logo=Medium&link=https://walidhadri.medium.com/)](https://walidhadri.medium.com/)
-[![Gmail Badge](https://img.shields.io/badge/-wa.hadri.1-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wa.hadri.1@gmail.com)](mailto:wa.hadri.1@gmail.com)
+<p align="center">
+<samp>
+<a href="https://www.youtube.com/@TheNextTokenLab">youtube</a> ·
+<a href="https://walidhadri.medium.com/">medium</a> ·
+<a href="https://huggingface.co/walidhadri">hugging&nbsp;face</a> ·
+<a href="https://www.kaggle.com/walidhadri">kaggle</a> ·
+<a href="https://dev.to/walid_hadri">dev.to</a> ·
+<a href="https://www.linkedin.com/in/walid-hadri-16438b175/">linkedin</a> ·
+<a href="https://walidhadri-iron.github.io/">site</a>
+</samp>
+</p>
 
-I'm a graduate from CentraleSupélec, one of the top engineering schools in France and part of the University of Paris-Saclay. I am majoring in Applied Mathematics and Data Science. My best skill is modeling complex problems with mathematics and building algorithmic solutions.
+Forward Deployed Engineer and AI engineer in Paris, trained in applied maths at CentraleSupélec. I work on document AI and LLM agents, build local-first search tools, and explain how language models work on [The Next Token](https://www.youtube.com/@TheNextTokenLab).
 
-### 🛠 &nbsp;Languages and Tools :
+## Building
 
-I have had many experiences to use different tools, I have used Java, C/C++, Julia, VBA, SAS, R as programming languages though Python is my mother tongue when it comes to programming. I have used AWS lambda, AWS S3, Docker, ReactJS, Wordpress, Django, Flask, Selenium... and many other technologies and frameworks. The only thing I learnt is that getting familiar with a new technology is a matter of time but having the skill of problem solving and understanding what it is needed at situations, is the most important asset.
+<p>
+<a href="https://github.com/WalidHadri-Iron/dowse"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/dowse-dark.svg"><img alt="Dowse: find anything on your PC by what's in it. Local, private semantic search for Windows, in 100+ languages." src="assets/cards/dowse-light.svg" width="100%"></picture></a>
+</p>
 
+<p>
+<a href="https://github.com/WalidHadri-Iron/dowse-obsidian"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/dowse-obsidian-dark.svg"><img alt="Dowse for Obsidian: search your vault by meaning." src="assets/cards/dowse-obsidian-light.svg" width="50%"></picture></a><a href="https://github.com/WalidHadri-Iron/awesome-table-detection-2026"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/table-detection-dark.svg"><img alt="Table detection: a field guide, a YOLO26n model and a live demo." src="assets/cards/table-detection-light.svg" width="50%"></picture></a>
+<a href="https://github.com/WalidHadri-Iron/awesome-ocr-2026"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/awesome-ocr-dark.svg"><img alt="Awesome OCR 2026: OCR in the VLM era." src="assets/cards/awesome-ocr-light.svg" width="50%"></picture></a><a href="https://www.kaggle.com/walidhadri"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/kaggle-dark.svg"><img alt="Kaggle Playground S6E10: 26th of 3,748 teams." src="assets/cards/kaggle-light.svg" width="50%"></picture></a>
+</p>
 
+<sub>Table detection on Hugging Face: <a href="https://huggingface.co/walidhadri/table-detection-yolo26n">YOLO26n model</a> · <a href="https://huggingface.co/spaces/walidhadri/table-detection-yolov26">live demo</a> · <a href="https://walidhadri.medium.com/table-detection-in-2026-a-practical-guide-to-models-datasets-and-weights-141e881619c8">the guide on Medium</a></sub>
 
+## Latest from The Next Token
 
+<!-- VIDEOS:START -->
+<p>
+<a href="https://www.youtube.com/watch?v=kChLGU7ArTQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/videos/video-1-dark.svg"><img alt="You&#x27;re Learning LLMs in the Wrong Order" src="assets/videos/video-1-light.svg" width="50%"></picture></a><a href="https://www.youtube.com/watch?v=cLWAiVIVr4U"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/videos/video-2-dark.svg"><img alt="In 19 Minutes, You will understand 10 years of LLMs" src="assets/videos/video-2-light.svg" width="50%"></picture></a>
+</p>
+<!-- VIDEOS:END -->
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats-walidhadrirons-projects-1a356695.vercel.app/api?username=WalidHadri-Iron&show_icons=true&theme=shadow_blue&include_all_commits=true&hide_rank=true" />
-  </a>
-</div>
+<sub><a href="https://www.youtube.com/@TheNextTokenLab/videos">All videos</a></sub>
 
+## Writing
 
-<h3>👨‍💻 Projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>Project</b></td>
-      <td><b>Description</b></td>
-      <td><b>Status</b></td>
-      <td><b>Techno used</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/WalidHadri-Iron/DSA"><b>DSA</b></a></td>
-      <td>Github Repository that sums the important ideas and notions related to Data Structure and Algorithms</td>
-      <td>🚧</td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-original.svg" title="Networkx" alt="NetworkX" width="40" height="40"/>&nbsp;<img src="https://github.com/WalidHadri-Iron/WalidHadri-Iron/blob/main/icons/gurobi.png" title="Gurobi" alt="Gurobi" width="100 height="100></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/WalidHadri-Iron/DSA/tree/main/EulerProject"><b>Project Euler</b></a></td>
-      <td>Github Repository grouping my solutions for the <a href="https://projecteuler.net/"> Project Euler</b></td>
-      <td>🚧</td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp<img src="https://github.com/WalidHadri-Iron/WalidHadri-Iron/blob/main/icons/Sympy_logo.svg.png" title="Sympy" alt="Sympy" width="50" height="50">
-    </tr>	  
-	<tr>
-      <td><a href="https://github.com/WalidHadri-Iron/MachineLearningLectures"><b>Machine Learning</b></a></td>
-      <td>Github Repository for courses in Classical Machine Learning I made with a more dive into the mathematics</td>
-      <td>🚧</td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" **alt="pandas" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="numpy" **alt="numpy" width="40" height="40"/>&nbsp<img src="https://github.com/WalidHadri-Iron/WalidHadri-Iron/blob/main/icons/plotly.svg" title="plotly" **alt="plotly" width="40" height="40"/>&nbsp<img src="https://github.com/WalidHadri-Iron/WalidHadri-Iron/blob/main/icons/seaborn.svg" title="seaborn" **alt="seaborn" width="40" height="40"/>&nbsp<img src="https://github.com/WalidHadri-Iron/WalidHadri-Iron/blob/main/icons/matplotlib.svg" title="matplotlib" **alt="matplotlib" width="50" height="50"/></td>		
-    </tr>
-    <tr>
-      <td><a href="https://github.com/WalidHadri-Iron/OptimisationProjects"><b>MIP Optimisation</b></a></td>
-      <td><ol><li><a href="https://walidhadri.medium.com/the-air-traffic-flow-management-rerouting-problem-534fbcc3e977"><b>Medium article to sum up the mathematical formualtion of Air Traffic Flow Management Rerouting Problem (TFMRP)</b></a></li>
-  <li><a href="https://github.com/WalidHadri-Iron/OptimisationProjects/tree/main/Truck%20Platooning"><b>Truck Platooning problem from mathematical formulation to solving using Gurobi</b></a></li>
-  <li><a href="https://github.com/WalidHadri-Iron/OptimisationProjects/tree/main/CO%20Casus%20May%202021"><b>Capacitated vehicle routing problem with time windows (CVRPTW)</b></a></li>
-  <li><a href="https://github.com/WalidHadri-Iron/OptimisationProjects/tree/main/MinWeightedDominantSet"><b>Minimum Weight Dominating Set with MIP approach</b></a></li></ol></td>
-      <td>✅</td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original-wordmark.svg" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;<img src="https://github.com/WalidHadri-Iron/WalidHadri-Iron/blob/main/icons/gurobi.png" title="Gurobi" alt="Gurobi" width="100 height="100></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/WalidHadri-Iron/MLScraping"><b>ML for Scraping</b></a></td>
-      <td>GitHub Repository for a project about automating the scraping of E-commerce websites using Machine Learning</td>
-      <td>✅</td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>&nbsp;<img src="https://github.com/WalidHadri-Iron/WalidHadri-Iron/blob/main/icons/sklearn.svg" title="Sklearn" alt="Sklearn" width="80" height="50"></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/WalidHadri-Iron/SeleniumProjects"><b>Projects with Selenium</b></a></td>
-      <td>GitHub Repository for projects using Selenium to automate scraping/interacting/using websites
-	   <ol>
-  <li><a href="https://github.com/WalidHadri-Iron/SeleniumProjects/tree/master/10fastfingers"><b>Playing with 10fastfingers.com</b></a></li>
-  <li><a href="https://github.com/WalidHadri-Iron/SeleniumProjects/tree/master/plugshare"><b>Parsing plugshare.com</b></a></li>  
-  <li><a href="https://github.com/WalidHadri-Iron/SeleniumProjects/tree/master/sportdirect"><b>Scheduled Parser for price and stock monitoring</b></a></li>
-</ol> </td>
-      <td>✅</td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" **alt="HTML" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" **alt="Heroku" width="40" height="40"/>&nbsp;<img src="https://github.com/WalidHadri-Iron/WalidHadri-Iron/blob/main/icons/aws.svg" title="aws" **alt="aws" width="40" height="30"/></td>    
-    </tr>
-    <tr>
-      <td><a href="https://github.com/WalidHadri-Iron/Valorant-Project"><b>Valorant Project</b></a></td>
-      <td>Computer Vision Project with deep learning (Yolo) and a classical (Template Matching) object detection approach</td>
-      <td>✅</td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Pytorch" **alt="Pytorch" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="opencv" **alt="opencv" width="40" height="40"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/WalidHadri-Iron/SimpleSearchEngine"><b>Simple Search Engine</b></a></td>
-      <td>GitHub Repository for a school project with BNP to create a search engine app with a similarity score method to compare the query with the text in the database (the database was small, we used simple methods for the search and TF-IDF as vectorizer)</td>
-      <td>✅</td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="ReactJS" **alt="ReactJS" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" **alt="flask" width="40" height="40"/>&nbsp;<img src="https://github.com/WalidHadri-Iron/WalidHadri-Iron/blob/main/icons/spacy.svg" title="spacy" **alt="spacy" width="50" height="30"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/WalidHadri-Iron/ParsingFiles"><b>Parsing Files</b></a></td>
-      <td>GitHub Repository for parsing and writing in different files format (pdfs, docs, word files, images, xml, pptx...)<ol>
-  <li><a href="https://github.com/WalidHadri-Iron/ParsingFiles/tree/main/studyclix"><b>Project for parsing word files and generating pdf files for studyclix.ie</b></a></li>
-  <li><a href="https://github.com/WalidHadri-Iron/ParsingFiles/tree/main/ResumePresentationPPTX"><b>Resume presentation generator from excel to pptx</b></a></li>  
-  <li><a href="https://github.com/WalidHadri-Iron/ParsingFiles/tree/main/XlwingsCalculations"><b>Automate an Excel file calculations using XLWINGS</b></a></li>
-  <li><a href="https://github.com/WalidHadri-Iron/ParsingFiles/tree/main/RedditBotPosting"><b>Reddit Bot for posting</b></a></li>
-</ol></td>
-      <td>✅</td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="opencv" **alt="opencv" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Pytorch" **alt="Pytorch" width="40" height="40"/>&nbsp;<img src="https://github.com/WalidHadri-Iron/WalidHadri-Iron/blob/main/icons/tkinter.png" title="Tkinter" **alt="Tkinter" width="50" height="30"/><br> $\textbf{tabula}$ $\textbf{pdfier}$ $\textbf{pymupdf}$ $\textbf{PyPDF2}$ $\textbf{tabula}$ $\textbf{camelot}$ $\textbf{python-pptx}$ $\textbf{python-docx}$</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/WalidHadri-Iron/BacktestingPortfolio"><b>Backtesting and Portfolio Optimization</b></a></td>
-      <td>GitHub Repository for a short term project related to portfolio opitmization using MonteCarlo and defining strategies for rebalancing to maximize the sharpe ratio</td>
-      <td>✅</td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; $\textbf{pyfinance}$</td>
-    </tr>
-  </tbody>
-      </table>
+<!-- WRITING:START -->
 
+- <samp>18 Nov 2026</samp> &nbsp;[You’re Learning LLMs in the Wrong Order](https://walidhadri.medium.com/youre-learning-llms-in-the-wrong-order-7463641f26f9)
+- <samp>15 Nov 2026</samp> &nbsp;[You Will Understand 10 Years of LLMs](https://walidhadri.medium.com/you-will-understand-10-years-of-llms-d80b647375d3)
+- <samp>13 Nov 2026</samp> &nbsp;[What Actually Happens When You Press Enter on ChatGPT](https://walidhadri.medium.com/what-actually-happens-when-you-press-enter-on-chatgpt-b2ca191f5335)
+- <samp>25 Feb 2026</samp> &nbsp;[PicoClaw: Running an AI Agent on $10 Hardware](https://walidhadri.medium.com/picoclaw-running-an-ai-agent-on-10-hardware-400e85663962)
+- <samp>24 Feb 2026</samp> &nbsp;[Claude Code Just Got Remote Control and It Changes How You Work](https://walidhadri.medium.com/claude-code-just-got-remote-control-and-it-changes-how-you-work-40e0dd3150f5)
 
+<!-- WRITING:END -->
+
+<sub><a href="https://walidhadri.medium.com/">More on Medium</a></sub>
+
+<details>
+<summary>Earlier work, 2020 to 2022</summary>
+
+- [Optimisation](https://github.com/WalidHadri-Iron/OptimisationProjects): air-traffic rerouting, truck platooning and vehicle routing with time windows, as mixed-integer programs in Gurobi and Julia. [Article](https://walidhadri.medium.com/the-air-traffic-flow-management-rerouting-problem-534fbcc3e977)
+- [Machine learning lectures](https://github.com/WalidHadri-Iron/MachineLearningLectures): classical ML with the maths worked through
+- [Valorant](https://github.com/WalidHadri-Iron/Valorant-Project): object detection with YOLO and with template matching
+- [Search engine](https://github.com/WalidHadri-Iron/SimpleSearchEngine): a TF-IDF search app, built as a school project with BNP Paribas
+- [Portfolio backtesting](https://github.com/WalidHadri-Iron/BacktestingPortfolio): Monte Carlo portfolio optimisation and rebalancing strategies
+- [Data structures and algorithms](https://github.com/WalidHadri-Iron/DSA), including Project Euler solutions
+- [Scraping](https://github.com/WalidHadri-Iron/MLScraping), [Selenium](https://github.com/WalidHadri-Iron/SeleniumProjects) and [file parsing](https://github.com/WalidHadri-Iron/ParsingFiles) automations
+
+</details>

@@ -1,0 +1,60 @@
+# Content for the profile README's images. Edit this, then run:
+#   python scripts/build.py
+# The nightly workflow runs the same command and commits any changes.
+
+user = "WalidHadri-Iron"
+youtube_channel_id = "UCMQG-5MKCZruceIp-xfCAAw"
+youtube_channel_name = "The Next Token"
+medium_feed = "https://medium.com/feed/@walidhadri"
+videos_shown = 2
+posts_shown = 5
+
+[banner]
+eyebrow = "FORWARD DEPLOYED ENGINEER · AI ENGINEER · PARIS"
+name = "Walid Hadri"
+# A leading space marks a token that starts a new word, as in a real tokenizer.
+tokens = ["I", " build", " local", "-first", " AI", " search", " and", " explain", " how", " LLMs"]
+next_tokens = [["work", 0.71], ["think", 0.18], ["fail", 0.06]]
+footer = "Document AI · LLM agents · local-first search · MSc CentraleSupélec"
+
+[flagship]
+repo = "dowse"
+tagline = "Find anything on your PC by what's in it."
+text = "Local, private semantic search for Windows: photos, screenshots, PDFs, documents, recordings and videos, in 100+ languages."
+chips = ["EmbeddingGemma 2", "llama.cpp", "Windows"]
+query = "photos of a yellow tram in Lisbon"
+results = [
+  ["IMG_0011.jpg", "Photo · Pictures › Lisbon"],
+  ["PXL_20260914_083500002.jpg", "Photo · Phone backup"],
+  ["Screenshot 2026-09-15 101422.png", "Screenshot · Desktop"],
+]
+
+[[cards]]
+file = "dowse-obsidian"
+repo = "dowse-obsidian"
+kind = "Obsidian plugin"
+title = "Dowse for Obsidian"
+text = "Search your vault by meaning: notes, PDFs, images, recordings and canvases, together."
+chips = ["TypeScript", "community plugins"]
+
+[[cards]]
+file = "table-detection"
+kind = "Document AI"
+title = "Table detection"
+text = "A field guide to finding tables in documents and photos, with a YOLO26n model and a live demo on Hugging Face."
+chips = ["guide", "model", "demo"]
+
+[[cards]]
+file = "awesome-ocr"
+kind = "Document AI"
+title = "Awesome OCR 2026"
+text = "OCR in the VLM era: live leaderboards, models, benchmarks and a guide to choosing one."
+chips = ["VLMs", "benchmarks", "awesome list"]
+
+[[cards]]
+file = "kaggle"
+kind = "Kaggle"
+label = "Top 0.7%"
+title = "Playground S6E10"
+text = "Finished 26th of 3,748 teams on the private leaderboard, up from 595th on the public one."
+chips = ["Playground Series"]
