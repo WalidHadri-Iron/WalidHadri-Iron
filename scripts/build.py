@@ -451,7 +451,9 @@ def latest_videos(channel_id: str, count: int) -> list[dict] | None:
     videos = []
     for entry in root.findall("a:entry", ns):
         vid = entry.findtext("yt:videoId", namespaces=ns)
-        if not vid or is_short(vid):
+        links = [l.get("href", "") for l in entry.findall("a:link", ns)]
+        # The feed links a Short to /shorts/<id>; fall back to asking YouTube only if it doesn't say.
+        if not vid or any("/shorts/" in h for h in links) or (not any("/watch" in h for h in links) and is_short(vid)):
             continue
         published = datetime.fromisoformat(entry.findtext("a:published", namespaces=ns))
         thumb = None
