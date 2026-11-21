@@ -43,11 +43,11 @@ Forward Deployed Engineer and AI engineer in Paris, trained in applied maths at 
 
 <!-- WRITING:START -->
 
+- <samp>21 Nov 2026</samp> &nbsp;[Anthropic’s FDE learning path: what you learn and who can join](https://walidhadri.medium.com/anthropics-fde-learning-path-what-you-learn-and-who-can-join-3502e5e6ad7e)
 - <samp>18 Nov 2026</samp> &nbsp;[You’re Learning LLMs in the Wrong Order](https://walidhadri.medium.com/youre-learning-llms-in-the-wrong-order-7463641f26f9)
 - <samp>15 Nov 2026</samp> &nbsp;[You Will Understand 10 Years of LLMs](https://walidhadri.medium.com/you-will-understand-10-years-of-llms-d80b647375d3)
 - <samp>13 Nov 2026</samp> &nbsp;[What Actually Happens When You Press Enter on ChatGPT](https://walidhadri.medium.com/what-actually-happens-when-you-press-enter-on-chatgpt-b2ca191f5335)
 - <samp>25 Feb 2026</samp> &nbsp;[PicoClaw: Running an AI Agent on $10 Hardware](https://walidhadri.medium.com/picoclaw-running-an-ai-agent-on-10-hardware-400e85663962)
-- <samp>24 Feb 2026</samp> &nbsp;[Claude Code Just Got Remote Control and It Changes How You Work](https://walidhadri.medium.com/claude-code-just-got-remote-control-and-it-changes-how-you-work-40e0dd3150f5)
 
 <!-- WRITING:END -->
 
