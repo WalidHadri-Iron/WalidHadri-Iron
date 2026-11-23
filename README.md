@@ -43,11 +43,11 @@ Forward Deployed Engineer and AI engineer in Paris, trained in applied maths at 
 
 <!-- WRITING:START -->
 
+- <samp>23 Nov 2026</samp> &nbsp;[Inside Anthropic’s FDE courses: what you study and how you’re assessed](https://walidhadri.medium.com/inside-anthropics-fde-courses-what-you-study-and-how-you-re-assessed-7eab887f6c87)
 - <samp>21 Nov 2026</samp> &nbsp;[OpenAI & Anthropic list FDE pay up to $300K. Here’s how to learn the work.](https://walidhadri.medium.com/openai-anthropic-list-fde-pay-up-to-300k-heres-how-to-learn-the-work-58e2a09421af)
 - <samp>21 Nov 2026</samp> &nbsp;[Anthropic’s FDE learning path: what you learn and who can join](https://walidhadri.medium.com/anthropics-fde-learning-path-what-you-learn-and-who-can-join-3502e5e6ad7e)
 - <samp>18 Nov 2026</samp> &nbsp;[You’re Learning LLMs in the Wrong Order](https://walidhadri.medium.com/youre-learning-llms-in-the-wrong-order-7463641f26f9)
 - <samp>15 Nov 2026</samp> &nbsp;[You Will Understand 10 Years of LLMs](https://walidhadri.medium.com/you-will-understand-10-years-of-llms-d80b647375d3)
-- <samp>13 Nov 2026</samp> &nbsp;[What Actually Happens When You Press Enter on ChatGPT](https://walidhadri.medium.com/what-actually-happens-when-you-press-enter-on-chatgpt-b2ca191f5335)
 
 <!-- WRITING:END -->
 
