@@ -33,7 +33,7 @@ Forward Deployed Engineer and AI engineer in Paris, trained in applied maths at 
 
 <!-- VIDEOS:START -->
 <p>
-<a href="https://www.youtube.com/watch?v=qNbfTr6f2DA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/videos/video-1-dark.svg"><img alt="Give Me 34 Minutes, I&#x27;ll Make AI Agents Click Forever" src="assets/videos/video-1-light.svg" width="50%"></picture></a><a href="https://www.youtube.com/watch?v=kChLGU7ArTQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/videos/video-2-dark.svg"><img alt="You&#x27;re Learning LLMs in the Wrong Order" src="assets/videos/video-2-light.svg" width="50%"></picture></a>
+<a href="https://www.youtube.com/watch?v=cLMOE6Vl8jQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/videos/video-1-dark.svg"><img alt="In 35 Minutes, You&#x27;ll Understand AI Coding Agents (Claude Code, Codex, Cursor)" src="assets/videos/video-1-light.svg" width="50%"></picture></a><a href="https://www.youtube.com/watch?v=qNbfTr6f2DA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/videos/video-2-dark.svg"><img alt="Give Me 34 Minutes, I&#x27;ll Make AI Agents Click Forever" src="assets/videos/video-2-light.svg" width="50%"></picture></a>
 </p>
 <!-- VIDEOS:END -->
 
@@ -43,11 +43,11 @@ Forward Deployed Engineer and AI engineer in Paris, trained in applied maths at 
 
 <!-- WRITING:START -->
 
+- <samp>24 Nov 2026</samp> &nbsp;[OCR in 2026: which models to run, what they cost, and how they compare](https://aiadvances.org/ocr-in-2026-which-models-to-run-what-they-cost-and-how-they-compare-59579f0ac1b0)
+- <samp>23 Nov 2026</samp> &nbsp;[What happens inside an AI coding agent](https://medium.com/data-science-collective/what-happens-inside-an-ai-coding-agent-962828b360ab)
 - <samp>23 Nov 2026</samp> &nbsp;[Inside Anthropic’s FDE courses: what you study and how you’re assessed](https://walidhadri.medium.com/inside-anthropics-fde-courses-what-you-study-and-how-you-re-assessed-7eab887f6c87)
 - <samp>21 Nov 2026</samp> &nbsp;[OpenAI & Anthropic list FDE pay up to $300K. Here’s how to learn the work.](https://walidhadri.medium.com/openai-anthropic-list-fde-pay-up-to-300k-heres-how-to-learn-the-work-58e2a09421af)
 - <samp>21 Nov 2026</samp> &nbsp;[Anthropic’s FDE learning path: what you learn and who can join](https://walidhadri.medium.com/anthropics-fde-learning-path-what-you-learn-and-who-can-join-3502e5e6ad7e)
-- <samp>18 Nov 2026</samp> &nbsp;[You’re Learning LLMs in the Wrong Order](https://walidhadri.medium.com/youre-learning-llms-in-the-wrong-order-7463641f26f9)
-- <samp>15 Nov 2026</samp> &nbsp;[You Will Understand 10 Years of LLMs](https://walidhadri.medium.com/you-will-understand-10-years-of-llms-d80b647375d3)
 
 <!-- WRITING:END -->
 
